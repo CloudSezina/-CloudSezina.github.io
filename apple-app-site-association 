@@ -1,0 +1,11 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"B27UARR24N.com.moc.MusicBorn",
+                "paths":["*"]
+            }
+        ]
+    }
+}
